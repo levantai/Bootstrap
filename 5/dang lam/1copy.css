@@ -1,0 +1,59 @@
+*{margin:0;padding:0; }
+
+
+nav.navbar.navbar-default {
+    height: 80px;
+    padding: 14px;
+    margin-bottom: 0px;
+}
+.navbar-default .navbar-nav > li > a:focus {color: #1abc9c;}
+ 
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+ a.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 1.9px;
+}
+
+.navbar-default{
+	border:none;
+}
+
+.menuxanh {
+	background: #1abc9c;
+	padding-top: 80px;
+	color: white;
+	padding-bottom: 50px;
+}
+
+.menuxanh h3 {
+    padding-bottom: 40px;
+    padding-top: 24px;
+}
+
+.xam {
+    background: gray;
+    color: white;
+    padding: 103px;
+    
+}
+
+.khoicot h3 {
+    padding: 86px;
+    font-size: 44px;
+}
+
+.cotden {
+    background: black;
+    color: white;
+    padding: 85px;
+    font-size: 20px;
+    margin-top: 88px;
+}

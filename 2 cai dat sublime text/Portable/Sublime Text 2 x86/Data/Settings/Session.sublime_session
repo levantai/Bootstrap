@@ -1,0 +1,197 @@
+{
+	"folder_history":
+	[
+	],
+	"last_window_id": 1,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"colo",
+						"color"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 150.0,
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"package control:in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/LVT/Tai Lieu/Bai 25document_6/6/dang lam/1.css",
+				"/D/LVT/Tai Lieu/Bai 25document_6/6/dang lam/1.html",
+				"/D/LVT/work/cv.html",
+				"/D/LVT/work/1.css",
+				"/D/LVT/work/1.js",
+				"/D/LVT/work/111.html",
+				"/C/Users/Admin/Desktop/111.html",
+				"/C/Users/Admin/Desktop/111111.html",
+				"/D/LVT/Tai Lieu/5/dang lam/1.css",
+				"/D/LVT/Tai Lieu/5/dang lam/1.html",
+				"/D/LVT/Tai Lieu/5/dang lam/1.js",
+				"/D/LVT/Tai Lieu/Bai 25document_6/6/bai chua theo video/bai chua theo video/1.html",
+				"/D/LVT/Tai Lieu/Bai 25document_6/6/bai chua theo video/bai demo fonticon/1.html",
+				"/D/LVT/Tai Lieu/Bai 25document_6/6/bai chua theo video/bai chua theo video/1.js",
+				"/D/LVT/Tai Lieu/Bai 25document_6/6/project 4/index.html",
+				"/C/Users/Admin/Desktop/11111111111111",
+				"/D/LVT/5/dang lam/1.html",
+				"/D/LVT/5/dang lam/1.css",
+				"/D/LVT/5/project  3/Bootstrap Theme Simply Me_files/jquery.min.js",
+				"/D/LVT/5/project  3/Bootstrap Theme Simply Me_files/bootstrap.min.js",
+				"/C/Users/vietnd/Downloads/Documents/2.html",
+				"/D/thang5/Sublime Text 2 x86/Data/Packages/View In Browser/View In Browser.sublime-settings",
+				"/D/thang5/Sublime Text 2 x86/Data/Packages/User/View In Browser.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"`"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,0,1,-32000,-32000,-1,-1,691,96,3,1030",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

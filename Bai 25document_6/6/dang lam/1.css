@@ -1,0 +1,65 @@
+*{margin:0;padding:0; }
+ 
+
+.foot small {
+    color: hotpink;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: hotpink;
+}
+
+nav.navbar.navbar-default {
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+nav.navbar.navbar-default {
+    margin-bottom: 0px;
+}
+
+.nenanh1 {
+    padding-top: 230px;
+    padding-bottom: 280px;
+    background: url(images/intro-bg.jpg);
+    color: white;
+}
+
+
+.nenxam1 p {
+    font-size: 18px;
+    padding-top: 24px;
+}
+body {
+  
+
+      font-family: 'Lato', sans-serif;
+}      
+
+hr.ngan {
+    width: 47%;
+    background: black;
+    border-top: 4px solid #e7e7e7;
+}
+
+
+hr.ngan {
+    width: 47%;
+    background: black;
+    border-top: 4px solid #e7e7e7;
+}
+
+.nenxam1 h1{
+    font-weight: 700;
+    padding-top: 34px;
+}
+
+.nenxam1 {
+    padding: 48px 0;
+    background: #F8F8F8;
+    border-bottom: 1px solid #E7E7E7;
+}
